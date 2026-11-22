@@ -1,0 +1,120 @@
+[
+  {
+    "id": "sw-001",
+    "name": "Aero Pulse 01",
+    "category": "Running",
+    "price": 6890,
+    "oldPrice": 7990,
+    "tag": "BESTSELLER",
+    "color": "#d9f0ff",
+    "description": "Lightweight everyday runner with responsive foam cushioning and breathable mesh.",
+    "sizes": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "stock": 12,
+    "emoji": "🏃"
+  },
+  {
+    "id": "sw-002",
+    "name": "Streetform Low",
+    "category": "Lifestyle",
+    "price": 5490,
+    "oldPrice": 0,
+    "tag": "NEW DROP",
+    "color": "#f4e6d6",
+    "description": "A clean low-top silhouette for daily rotation, with a cushioned collar and durable outsole.",
+    "sizes": [
+      39,
+      40,
+      41,
+      42,
+      43
+    ],
+    "stock": 8,
+    "emoji": "👟"
+  },
+  {
+    "id": "sw-003",
+    "name": "Volt Runner X",
+    "category": "Running",
+    "price": 8290,
+    "oldPrice": 8990,
+    "tag": "LIMITED",
+    "color": "#e7e2ff",
+    "description": "A fast-feeling training shoe with stable support and a springy ride.",
+    "sizes": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "stock": 5,
+    "emoji": "⚡"
+  },
+  {
+    "id": "sw-004",
+    "name": "Court Classic 88",
+    "category": "Basketball",
+    "price": 7490,
+    "oldPrice": 0,
+    "tag": "CLASSIC",
+    "color": "#e9eee4",
+    "description": "A court-inspired high-top with supportive ankle padding and grippy rubber outsole.",
+    "sizes": [
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "stock": 9,
+    "emoji": "🏀"
+  },
+  {
+    "id": "sw-005",
+    "name": "Cloudstep Knit",
+    "category": "Lifestyle",
+    "price": 6290,
+    "oldPrice": 6990,
+    "tag": "COMFORT",
+    "color": "#f0e9e2",
+    "description": "Soft knit upper, flexible construction, and plush cushioning for long days.",
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43
+    ],
+    "stock": 14,
+    "emoji": "☁️"
+  },
+  {
+    "id": "sw-006",
+    "name": "Trailbound Pro",
+    "category": "Outdoor",
+    "price": 9290,
+    "oldPrice": 9990,
+    "tag": "OUTDOOR",
+    "color": "#e6e8d8",
+    "description": "A rugged trail-ready profile with extra grip and a protective toe guard.",
+    "sizes": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "stock": 6,
+    "emoji": "⛰️"
+  }
+]
